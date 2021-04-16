@@ -43,6 +43,8 @@ Vidéo de présentation de la base :
 
 # Documentation FR
 
+### Changer l'argent de départ (essentialmode)
+
 Pour changer l'argent de départ, veuillez suivre ce chemin d'accès :
 `resources/[scripts]/[essential]/essentialmode/server/util.lua`
 
