@@ -17,8 +17,10 @@ The name of the resource cannot be changed !
 
 # Preview
 
-![screenshot](https://media.discordapp.net/attachments/729007411809091675/832652442482507836/unknown.png?width=1050&height=683)
+Vidéo de présentation de la base :
+ - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
 
+Video presentation of the base:
  - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
 
 # Installation
