@@ -1,19 +1,22 @@
 # Base Template
 
-Bonjour à tous je vous présente aujourd'hui ce script auto-école. C'est le esx_dmvschool énormement modifié. L'emplacement de l'auto-école, le trajet, les questions du code de la route, le design etc...
+Bonjour à tous je vous présente aujourd'hui cette Base Template réalisé dans le but de vous faciliter la création de vos Serveurs FiveM. Cette base comporte toutes les ressources essentiels au bon fonctionnement de votre serveur.
 
 Le nom de la ressource n'est pas modifiable !
 
 -----------------------------------------------------
 -----------------------------------------------------
 
-Hello everyone, today I present this driving school script to you. This is the hugely modified esx_dmvschool. The location of the driving school, the route, the questions of the highway code, the design etc ...
+Hello everyone, I present to you today this Base Template created in order to facilitate the creation of your FiveM Servers. This database contains all the resources essential for the proper functioning of your server.
 
-The name of the resource cannot be changed !
+The name of the resource cannot be changed!
 
-# Requirements
+# Documentation FR
 
-- [esx_license](https://github.com/gregos1810/esx_license) 
+Pour utiliser cette ressource vous devez télécharger l'artifact de FiveM
+- [Artifact Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) 
+- [Artifact Linux](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/) 
+
 
 # Preview
 
