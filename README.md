@@ -33,22 +33,13 @@ Pour cela il sufit de changer le nom de la BDD dans la ligne `6`.
 
 Une fois cela effectué vous pouvez démarrer le `start.bat` et profiter de la base !
 
+- Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
+- If you need help installing: https://discord.gg/eX9GXWN
+
 # Preview
 
 Vidéo de présentation de la base :
  - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
-
-# Installation
-- Import `wz-autoecole` in your server base
-- Add this in your `server.cfg`:
-
-```
-start wz-autoecole
-start Mapping-Auto-Ecole
-start Vehicule-Auto-Ecole
-```
-- Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
-- If you need help installing: https://discord.gg/eX9GXWN
 
 # Author 
 Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
