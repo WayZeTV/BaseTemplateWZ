@@ -7,7 +7,7 @@ Le nom de la ressource n'est pas modifiable et toute personne qui s'appropriera 
 # Preview
 
 Vidéo de présentation de la base :
- - 🎥 [Base Preview](https://youtu.be/6UHVMXqlJ14)  
+ - 🎥 [Base Preview](https://youtu.be/I_hxzDWOHlg)  
 
 Vidéo Tutoriel d'Installation de la base :
  - 🎥 [Base Installation] Soon... 
