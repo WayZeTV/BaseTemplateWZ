@@ -1,0 +1,7 @@
+Pour utiliser la Base Template, il faut que vous insérez dans une base de donnée le fichier basetemplate.sql !
+
+Le dossier SQL-Scripts est juste là pour classer chaque fichier SQL de chaque script et vous aider dans l'organisation de votre base.
+
+--------- 
+
+Si jamais vous avez un problème rendez-vous sur notre Serveur Discord : discord.gg/8Wznt3W
