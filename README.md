@@ -22,8 +22,8 @@ Lignes 23 / 29 / 30 / 45
 
 Si vous n'y parvenez pas vous pouvez utiliser le start.bat classique qui est plus simple :
 
-`cd /d D:\NomDossierServeur`
-`D:\NomDossierServeur\FXServer.exe +exec server.cfg`
+- `cd /d D:\NomDossierServeur`
+- `D:\NomDossierServeur\FXServer.exe +exec server.cfg`
 
 # Preview
 
