@@ -41,6 +41,13 @@ Une fois cela effectué vous pouvez démarrer le `start.bat` et profiter de la b
 Vidéo de présentation de la base :
  - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
 
+# Documentation FR
+
+Pour changer l'argent de départ, veuillez suivre ce chemin d'accès :
+`resources/[scripts]/[essential]/essentialmode/server/util.lua`
+
+Vous pouvez ensuite changer l'argent de départ en Cash (`Ligne 11`) et l'argent de départ en Banque (`Ligne 12`)
+
 # Author 
 Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
 
