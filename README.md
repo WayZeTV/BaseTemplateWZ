@@ -11,12 +11,12 @@ Hello everyone, I present to you today this Base Template created in order to fa
 
 The name of the resource cannot be changed!
 
-# Documentation FR
+# Installation FR
 
 Pour utiliser cette ressource vous devez télécharger l'artifact de FiveM
 - [Artifact Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) 
 - [Artifact Linux](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/) 
-
+-----------------------------------------------------
 Une fois l'artifact installé, vous devez configurer le start.bat en changement le chemin d'accès aux lignes suivantes :
 Lignes 23 / 29 / 30 / 45
 
@@ -24,6 +24,14 @@ Si vous n'y parvenez pas vous pouvez utiliser le start.bat classique qui est plu
 
 - `cd /d D:\NomDossierServeur`
 - `D:\NomDossierServeur\FXServer.exe +exec server.cfg`
+-----------------------------------------------------
+Vous pouvez retrouver dans le dossier "SQL" un fichier se nommant basetemplate.sql
+Pour l'installer il suffit de l'importer dans votre base de donnée (EX : XAMPP)
+
+Il faut également que vous changiez la ligne de liaison SQL dans le `server.cfg`.
+Pour cela il sufit de changer le nom de la BDD dans la ligne `6`.
+
+Une fois cela effectué vous pouvez démarrer le `start.bat` et profiter de la base !
 
 # Preview
 
