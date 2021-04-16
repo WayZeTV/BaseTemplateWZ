@@ -1,4 +1,4 @@
-# Base Template
+# Base Template par WayZe#0001
 
 Bonjour à tous je vous présente aujourd'hui cette Base Template réalisé dans le but de vous faciliter la création de vos Serveurs FiveM. Cette base comporte toutes les ressources essentiels au bon fonctionnement de votre serveur.
 
