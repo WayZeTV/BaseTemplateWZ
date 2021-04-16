@@ -20,9 +20,6 @@ The name of the resource cannot be changed !
 Vidéo de présentation de la base :
  - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
 
-Video presentation of the base:
- - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
-
 # Installation
 - Import `wz-autoecole` in your server base
 - Add this in your `server.cfg`:
