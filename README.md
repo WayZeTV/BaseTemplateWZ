@@ -8,7 +8,7 @@ Le nom de la ressource n'est pas modifiable !
 
 Vidéo de présentation de la base :
  - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
- - 
+ 
 # Installation FR
 
 Pour utiliser cette ressource vous devez télécharger l'artifact de FiveM
