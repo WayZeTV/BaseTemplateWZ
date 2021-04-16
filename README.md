@@ -9,7 +9,7 @@ Le nom de la ressource n'est pas modifiable et toute personne qui s'appropriera 
 Vidéo de présentation de la base :
  - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
  
-# Installation FR 🇫🇷
+# Installation FR 
 
 Pour utiliser cette ressource vous devez télécharger l'artifact de FiveM
 - [Artifact Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) 
