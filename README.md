@@ -4,13 +4,11 @@ Bonjour à tous je vous présente aujourd'hui cette Base Template réalisé dans
 
 Le nom de la ressource n'est pas modifiable !
 
------------------------------------------------------
------------------------------------------------------
+# Preview
 
-Hello everyone, I present to you today this Base Template created in order to facilitate the creation of your FiveM Servers. This database contains all the resources essential for the proper functioning of your server.
-
-The name of the resource cannot be changed!
-
+Vidéo de présentation de la base :
+ - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
+ - 
 # Installation FR
 
 Pour utiliser cette ressource vous devez télécharger l'artifact de FiveM
@@ -35,11 +33,6 @@ Une fois cela effectué vous pouvez démarrer le `start.bat` et profiter de la b
 
 - Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
 - If you need help installing: https://discord.gg/eX9GXWN
-
-# Preview
-
-Vidéo de présentation de la base :
- - [Base Preview](https://youtu.be/6UHVMXqlJ14) 
 
 # Documentation FR
 
