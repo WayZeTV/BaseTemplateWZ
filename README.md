@@ -17,6 +17,13 @@ Pour utiliser cette ressource vous devez télécharger l'artifact de FiveM
 - [Artifact Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) 
 - [Artifact Linux](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/) 
 
+Une fois l'artifact installé, vous devez configurer le start.bat en changement le chemin d'accès aux lignes suivantes :
+Lignes 23 / 29 / 30 / 45
+
+Si vous n'y parvenez pas vous pouvez utiliser le start.bat classique qui est plus simple :
+
+`cd /d D:\NomDossierServeur
+D:\NomDossierServeur\FXServer.exe +exec server.cfg`
 
 # Preview
 
