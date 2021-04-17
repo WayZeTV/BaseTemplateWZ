@@ -2,7 +2,7 @@
 
 Bonjour à tous je vous présente aujourd'hui cette Base Template qui tourne en Double Job sur la première version de l'es_extended réalisé dans le but de vous faciliter la création de vos Serveurs FiveM. Cette base comporte toutes les ressources essentiels au bon fonctionnement de votre serveur. 
 
-Le nom de la ressource n'est pas modifiable et toute personne qui s'appropriera ma ressource assumera les conséquences 🙂
+Je vous prie de ne pas vous attribuer cette base et de la vendre, toute personne qui s'appropriera ma base assumera les conséquences 🙂
 
 # Preview
 
