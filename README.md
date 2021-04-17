@@ -36,6 +36,10 @@ Une fois cela effectué vous pouvez démarrer le `start.bat` et profiter de la b
 
 - Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN 🌐
 
+# Documentation FR 
+
+- [Documentation FR](https://github.com/WayZeTV/BaseTemplateWZ/blob/main/documentation.md) 
+
 # Author 
 Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
 
