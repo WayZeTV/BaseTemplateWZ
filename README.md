@@ -10,7 +10,7 @@ Vidéo de présentation de la base :
  - 🎥 [Base Preview](https://youtu.be/I_hxzDWOHlg)  
 
 Vidéo Tutoriel d'Installation de la base :
- - 🎥 [Base Installation] Soon... 
+ - 🎥 [Base Installation](https://youtu.be/AyelMd8qzTI)
  
 # Installation FR 
 
