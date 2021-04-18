@@ -13,7 +13,7 @@ Vidéo Tutoriel d'Installation de la base en Local Host :
  - 🎥 [Installation de la base en Local Host](https://youtu.be/AyelMd8qzTI)
 
 Vidéo Tutoriel d'Installation de la base sur Hébergeur :
- - 🎥 [Installation de la base sur un hébergeur]Prochainement
+ - 🎥 [Installation de la base sur un hébergeur] Prochainement
  
 # Installation FR 
 
